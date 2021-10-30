@@ -102,6 +102,7 @@ font-family: 'Suez One', serif;
     font-size: 3.8rem;
     padding: 12px;
     font-family: fantasy;
+    color: #f2f2f2;
 }
 
 .h-secondary {
@@ -109,6 +110,7 @@ font-family: 'Suez One', serif;
 }
 .centre {
     text-align: center;
+    
 }
 /*--------Infromation_Topic----------*/
 /*Infromation_Topic section*/
@@ -357,10 +359,14 @@ body {
   justify-content: center;
   align-items: center;
   text-align: justify;
+  color: aliceblue;
 }
 .box1 .box2{
   padding: 20px;
+  color: #f2f2f2;
 }
 .box1 .box2 h3{
   font-family: 'Delius', cursive;
+  color: #f2f2f2;
+
 }
