@@ -352,3 +352,15 @@ body {
   left: 0%;
   }
 }
+.box1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+}
+.box1 .box2{
+  padding: 20px;
+}
+.box1 .box2 h3{
+  font-family: 'Delius', cursive;
+}
